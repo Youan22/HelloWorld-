@@ -13,6 +13,6 @@ You can have access to the demo of my software here: [Software Demo Video](https
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+List of webpages that I used for my preparation
 * [Visual Studio Code & GitHub](https://code.visualstudio.com/docs/editor/versioncontrol)
 * [Python 3.9 Ref Manual](https://www.python.org/downloads/release/python-3916/)
