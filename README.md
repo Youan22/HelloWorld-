@@ -3,9 +3,7 @@
 It's a basic Hello World program.  I developed this as an example of integrating Python, GitHub, and Visual Studio Code. 
 
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+You can have access to the demo of my software here: [Software Demo Video](https://youtu.be/gv4VkeaM9ek)
 
 # Development Environment
 
